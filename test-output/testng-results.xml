@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="280473" started-at="2022-01-26T11:30:00 IST" finished-at="2022-01-26T11:34:40 IST">
+    <groups>
+    </groups>
+    <test name="Classic CRMPRO Application Test" duration-ms="280473" started-at="2022-01-26T11:30:00 IST" finished-at="2022-01-26T11:34:40 IST">
+      <class name="com.classCRM.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.classCRM.testCases.TC_LoginTest_001@4d95d2a2]" name="setup" is-config="true" duration-ms="212113" started-at="2022-01-26T11:30:07 IST" finished-at="2022-01-26T11:33:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.classCRM.testCases.TC_LoginTest_001@4d95d2a2]" name="loginTest" duration-ms="53845" started-at="2022-01-26T11:33:40 IST" finished-at="2022-01-26T11:34:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.classCRM.testCases.TC_LoginTest_001@4d95d2a2]" name="tearDown" is-config="true" duration-ms="5002" started-at="2022-01-26T11:34:35 IST" finished-at="2022-01-26T11:34:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.classCRM.testCases.TC_LoginTest_001 -->
+    </test> <!-- Classic CRMPRO Application Test -->
+  </suite> <!-- Suite -->
+</testng-results>

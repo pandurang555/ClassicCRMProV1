@@ -1,0 +1,9 @@
+com\classCRM\testCases\TC_LoginTest_001.class
+com\classicCRM\utilities\ReadConfig.class
+com\classCRM\testCases\BaseClass.class
+com\classicCRM\utilities\XLUtils.class
+com\classCRM\testCases\TC_AddCustomerTest_003.class
+com\classicCRM\pageObjects\AddCustomerPage.class
+com\classicCRM\pageObjects\LoginPage.class
+com\classicCRM\utilities\Reporting.class
+com\classCRM\testCases\TC_LoginDDT_002.class
